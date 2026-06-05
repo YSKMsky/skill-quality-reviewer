@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Quality Reviewer"
+  short_description: "Audit skills against reusable quality gates"
+  default_prompt: "Use $skill-quality-reviewer to review a skill folder, identify triggering, progressive disclosure, gotchas, validation, and workflow issues, then propose or apply focused improvements."
